@@ -1,0 +1,1 @@
+document.addEventListener('DOMContentLoaded',()=>{let b=document.querySelector('.menu-toggle'),n=document.querySelector('.nav');if(b&&n)b.addEventListener('click',()=>{let open=n.classList.toggle('open');b.setAttribute('aria-expanded',String(open))})});

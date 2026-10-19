@@ -1,0 +1,1 @@
+Reserved for the separate camera website builder. This package does not overwrite its application. Public camera records are maintained in ../data/cameras.json. Browser JavaScript cannot write to server files.
