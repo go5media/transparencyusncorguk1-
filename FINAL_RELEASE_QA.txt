@@ -1,0 +1,6 @@
+USCN static package — final local QA, 20 October 2026
+POL-006 v2.0 replaced with the full text of all seven approved sections; every source line checked against PDF text extraction.
+Consolidated PDF rebuilt from current public PDFs.
+All other published PDFs and documents retain their prior source/disclosure limitations.
+Local structural checks do not establish live-site operation, email/telephone delivery, legal certification or independent security review.
+Preserve the separate /camera/ builder; upload ZIP contents directly to site root.
