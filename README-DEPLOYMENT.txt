@@ -21,5 +21,3 @@ To publish a camera, insert a record in data/cameras.json with fields id, area, 
 No camera records are populated. No camera is presumed commissioned. No supplier contracts, legal assessments or policies are presumed published by packaging them.
 
 Static web hosting is needed for fetch() of JSON. Opening via file:// may not work. The browser cannot write to ../data or other server files without a server-side API.
-
-Update: Contact page and public footer include telephone numbers 0808 280 1223, 0330 520 1223, 0330 520 4085 (all three on contact page). Public sitemap.html, search engine sitemap.xml and robots.txt included. /camera/ excluded from sitemap and discouraged from indexing (robots.txt is not an access control).
