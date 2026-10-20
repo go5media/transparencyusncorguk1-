@@ -1,3 +1,4 @@
 User-agent: *
+Allow: /
 Disallow: /camera/
 Sitemap: https://transparency.uscn.org.uk/sitemap.xml

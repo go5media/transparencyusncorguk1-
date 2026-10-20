@@ -1,0 +1,9 @@
+USCN TRANSPARENCY — FIXED STATIC WEBSITE
+
+Deploy the CONTENTS of this ZIP directly into the document root for transparency.uscn.org.uk. index.html, robots.txt and sitemap.xml must be directly in that root. Do not upload an enclosing folder.
+
+Directory pages: /policies/index.html, /documents/index.html and /cameras/index.html. The short /policies/, /documents/ and /cameras/ paths require DirectoryIndex index.html on the web server.
+
+Keep your existing /camera/ builder separate. Search indexing requires the live website to return HTTP 200 and not be blocked or password protected; search engines decide whether to index. Submit /sitemap.xml after deployment.
+
+Individual camera viewing remains conditional on assessment and authorisation. Read PUBLICATION_README.txt for document-control limitations.

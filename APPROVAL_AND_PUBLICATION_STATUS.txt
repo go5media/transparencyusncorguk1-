@@ -1,0 +1,12 @@
+UK Safety Camera Network Ltd — public package status
+Document-control date: 20 October 2026
+USCN reports that all DOCX documents were approved by DPO Bertram Scanlon on 20 October 2026.
+Approval is user-reported, not independently authenticated against signatures.
+This ZIP includes the public PDF editions, not editable DOCX source files.
+Public documents may retain source labels such as template, reconstruction or historic draft.
+The full original POL-006 v1.0 text was not available; its current policy was reconstructed.
+Policy approval does not itself commission any camera or authorise host live viewing.
+Each camera needs its own DPIA, technical checks and DPO operational approval.
+Public availability in this ZIP does not mean the files have been deployed to live hosting.
+Upload the ZIP contents directly into the transparency.uscn.org.uk document root.
+Preserve the separate /camera/ builder.
