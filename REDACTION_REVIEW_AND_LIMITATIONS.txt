@@ -1,0 +1,18 @@
+20 October 2026 — GRANULAR REDACTION REVISION
+The regenerated POL-003 and supporting *_PUBLIC_DISCLOSURE PDFs use value-level redactions only for matched sensitive technical values, not entire lines or paragraphs.
+Not every public PDF could be regenerated from its original unredacted consolidated source; those files retain their previous redactions. Previously deleted content cannot be restored from a redacted PDF.
+The absence of a matched pattern is not proof that a document is safe for unrestricted disclosure. A human security/privacy review remains essential.
+The public compilation PDF has been rebuilt to incorporate the revised source PDFs.
+The current POL-003 source retains historical drafting labels; the POL-006 full original is unavailable.
+Granular redaction hits on regenerated PDFs:
+USCN-POL-003_CURRENT.pdf: 0
+USCN-AGR-002_PUBLIC_DISCLOSURE.pdf: 0
+USCN-APD-T01_PUBLIC_DISCLOSURE.pdf: 0
+USCN-ASS-001_PUBLIC_DISCLOSURE.pdf: 0
+USCN-DPIA-T01_PUBLIC_DISCLOSURE.pdf: 0
+USCN-FRM-001_PUBLIC_DISCLOSURE.pdf: 0
+USCN-NOT-001_PUBLIC_DISCLOSURE.pdf: 0
+USCN-PRO-001_PUBLIC_DISCLOSURE.pdf: 0
+USCN-PRO-002_PUBLIC_DISCLOSURE.pdf: 0
+USCN-PRO-003_PUBLIC_DISCLOSURE.pdf: 0
+USCN-ROPA-001_PUBLIC_DISCLOSURE.pdf: 0
